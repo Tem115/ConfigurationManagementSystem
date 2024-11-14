@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|c:\\users\\trush\\desktop\\configurationmanagementsystem\\configurationmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|solutionrelative:configurationmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|c:\\users\\trush\\desktop\\configurationmanagementsystem\\configurationmanagementsystem\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|solutionrelative:configurationmanagementsystem\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|c:\\users\\trush\\desktop\\configurationmanagementsystem\\configurationmanagementsystem\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|solutionrelative:configurationmanagementsystem\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|c:\\users\\trush\\desktop\\configurationmanagementsystem\\configurationmanagementsystem\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|solutionrelative:configurationmanagementsystem\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|c:\\users\\trush\\desktop\\configurationmanagementsystem\\configurationmanagementsystem\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|solutionrelative:configurationmanagementsystem\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|c:\\users\\trush\\desktop\\configurationmanagementsystem\\configurationmanagementsystem\\hubs\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28881658-7616-47E9-BF68-BF39AC184851}|ConfigurationManagementSystem\\ConfigurationManagementSystem.csproj|solutionrelative:configurationmanagementsystem\\hubs\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VersionController.cs",
+              "DocumentMoniker": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Controllers\\VersionController.cs",
+              "RelativeDocumentMoniker": "ConfigurationManagementSystem\\Controllers\\VersionController.cs",
+              "ToolTip": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Controllers\\VersionController.cs",
+              "RelativeToolTip": "ConfigurationManagementSystem\\Controllers\\VersionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:10:37.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "ConfigurationManagementSystem\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "ConfigurationManagementSystem\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:09:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationController.cs",
+              "DocumentMoniker": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Controllers\\ConfigurationController.cs",
+              "RelativeDocumentMoniker": "ConfigurationManagementSystem\\Controllers\\ConfigurationController.cs",
+              "ToolTip": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Controllers\\ConfigurationController.cs",
+              "RelativeToolTip": "ConfigurationManagementSystem\\Controllers\\ConfigurationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:51:06.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigurationManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Program.cs",
+              "RelativeToolTip": "ConfigurationManagementSystem\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:48:49.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "ConfigurationManagementSystem\\Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "ConfigurationManagementSystem\\Services\\ConfigurationService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwFYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:51:53.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationsHub.cs",
+              "DocumentMoniker": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Hubs\\NotificationsHub.cs",
+              "RelativeDocumentMoniker": "ConfigurationManagementSystem\\Hubs\\NotificationsHub.cs",
+              "ToolTip": "C:\\Users\\Trush\\Desktop\\ConfigurationManagementSystem\\ConfigurationManagementSystem\\Hubs\\NotificationsHub.cs",
+              "RelativeToolTip": "ConfigurationManagementSystem\\Hubs\\NotificationsHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:51:11.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

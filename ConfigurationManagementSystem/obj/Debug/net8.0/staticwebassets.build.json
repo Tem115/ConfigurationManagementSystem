@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lILCW0Zh7i8XB8K19hZuhEc33wUuN1En4h8iC4R4SqE=",
+  "Source": "ConfigurationManagementSystem",
+  "BasePath": "_content/ConfigurationManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

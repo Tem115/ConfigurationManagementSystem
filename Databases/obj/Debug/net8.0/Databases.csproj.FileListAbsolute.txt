@@ -1,0 +1,12 @@
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\bin\Debug\net8.0\Databases.deps.json
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\bin\Debug\net8.0\Databases.dll
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\bin\Debug\net8.0\Databases.pdb
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\Databases.csproj.AssemblyReference.cache
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\Databases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\Databases.AssemblyInfoInputs.cache
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\Databases.AssemblyInfo.cs
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\Databases.csproj.CoreCompileInputs.cache
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\Databases.dll
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\refint\Databases.dll
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\Databases.pdb
+C:\Users\Trush\Desktop\ConfigurationManagementSystem\Databases\obj\Debug\net8.0\ref\Databases.dll

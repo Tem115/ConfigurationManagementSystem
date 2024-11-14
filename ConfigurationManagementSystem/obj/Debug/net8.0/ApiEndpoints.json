@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "ConfigurationManagementSystem.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "authentication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authenticateRequest",
+        "Type": "ConfigurationManagementSystem.Models.InputModels.AuthenticateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConfigurationManagementSystem.Controllers.ConfigurationController",
+    "Method": "CreateConfigurationAsync",
+    "RelativePath": "configuration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "configurationInputModel",
+        "Type": "ConfigurationManagementSystem.Models.InputModels.ConfigurationInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConfigurationManagementSystem.Controllers.ConfigurationController",
+    "Method": "UpdateConfigurationAsync",
+    "RelativePath": "configuration",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "configurationInputModel",
+        "Type": "ConfigurationManagementSystem.Models.InputModels.ConfigurationInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConfigurationManagementSystem.Controllers.ConfigurationController",
+    "Method": "GetConfigurationListAsync",
+    "RelativePath": "configuration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CreateDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConfigurationManagementSystem.Controllers.VersionController",
+    "Method": "GetVersionListAsync",
+    "RelativePath": "version",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConfigurationManagementSystem.Controllers.VersionController",
+    "Method": "SelectVersionsAsync",
+    "RelativePath": "version",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "configurationId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
